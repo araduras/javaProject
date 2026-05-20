@@ -1,0 +1,13 @@
+public class PangramChecker {
+    List <Character> alphabet = new ArrayList<>();
+    for(char c = 'a'; c<='z'; c++)
+    {
+        
+    }
+
+    public boolean isPangram(String input) {
+        boolean pangram;
+        return pangram;
+    }
+
+}
